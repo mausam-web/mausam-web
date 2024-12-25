@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mausam Tharu</h1>
 <h3 align="center">A passionate Software Engineer From Bardiya,Nepal</h3>
-<img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/9c6f9c25-7b50-45c3-a5e0-faa30d7ff2c3)
+<img align="right" alt="coding" width="400" src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD…lmmplZdsiEYeiELyvcIRCEICEQhCAhEIQgIUtJpjRCEH/2Q==
+
 ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mausam-web&label=Profile%20views&color=0e75b6&style=flat" alt="mausam-web" /> </p>
