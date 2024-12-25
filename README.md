@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mausam Tharu</h1>
 <h3 align="center">A passionate Software Engineer From Bardiya,Nepal</h3>
-<img align="right" alt="coding" width="400" src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD…lmmplZdsiEYeiELyvcIRCEICEQhCAhEIQgIUtJpjRCEH/2Q==
+<img align="right" alt="coding" width="400" src="image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD…lmmplZdsiEYeiELyvcIRCEICEQhCAhEIQgIUtJpjRCEH/2Q==
 
 ">
 
