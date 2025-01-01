@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mausam Tharu</h1>
 <h3 align="center">A passionate Software Engineer From Bardiya,Nepal</h3>
-<img align="right" alt="coding" width="400" src="https://unsplash.com/photos/programming-code-abstract-technology-background-of-software-developer-and-computer-script-ltpb_WinC3Y">
+<img align="right" alt="coding" width="400" src="https://plus.unsplash.com/premium_photo-1661877737564-3dfd7282efcb?q=80&w=1800&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mausam-web&label=Profile%20views&color=0e75b6&style=flat" alt="mausam-web" /> </p>
 
